@@ -1,0 +1,55 @@
+{ 
+    "persona": "Federico Silva",
+    "descripcion": "Programador Web - Técnico Electromecánico",
+    "sobreMi": "Soy Federico Silva, tengo 21 años y vivo en Buenos Aires en la ciudad de Hurlingham. Soy técnico electromecánico recibido de un colegio secundario y actualmente me encuentro desarrollándome en el sector de la informática, estudio Tecnicatura Universitaria en Programación en la UNAHUR (Universidad de Hurlingham) y me encuentro realizando el curso de Programador Web Full Stack (Argentina Programa). Tengo un interés especial por la programación y desde chico siempre estuve en contacto con la tecnología.",
+    "experiencias": [
+      {
+        "id_experiencia":"1",
+        "nombreEmpresa": "S.I.S.E.T SRL",
+        "cargo": "Técnico instalador", 
+        "descripcion": "Instalador de cámaras de seguridad y alarmas, soporte y puesta en marcha de equipos de seguridad y monitoreo."
+      },
+
+
+      { 
+        "id_experiencia":"2", 
+        "nombreEmpresa2": "S.O SERVICIOS GENERALES", 
+        "cargo2": "Ayudante de Obra", 
+        "descripcion2": "Decoración de interiores y revestimientos, trabajos de albañilería, electricidad y reformas en general"
+      }
+],
+
+    "educacions": [
+        { 
+          "id_educacion":"1", 
+          "nombreInst": "Universidad de Hurlingham", 
+          "titulo": "Técnico Univ. en Programación", 
+          "descripcion": "Diseño, programación y desarrollo de software. Tecnologías front-end, back-end y base de datos. Diseño y codificación. Probar, medir y mantener programas. Implantación de proyectos de software."
+        },
+
+        { 
+          "id_educacion":"2", 
+          "nombreInst2": "Argentina Programa", 
+          "titulo2": "Programador Web Full Stack", 
+          "descripcion2": "Desarrollo de interfaz y arquitectura web. Diseño de interfaces de usuario y otras funcionalidades web. Desarrollo de aplicaciones back-end. Responsabilidad a la hora de crear servidores y bases de datos para su correcta operatividad. Garantia de funcionalidad de las aplicaciones y páginas en dispositivos móviles. Velocidad y escabilidad de proyecto. Administración de proyectos complejos. Asesoramiento a otros departamentos del área tecnológica."
+        },
+
+        { 
+          "id_educacion":"3",
+          "nombreInst3": "Escuela de Educación Secundaria Técnica N°2 Tres de Febrero", 
+          "titulo3": "Técnico Electromecánico", 
+          "descripcion3": "Proyecto, diseño y realización de montaje de equipos e instalaciones. Realización de mantenimiento preventivo, predictivo y correctivo. Operación de equipos e instalaciones de industrias, edificios e infraestructura urbana. Suministro de servicios auxiliares en empresas industriales, edificios e insfraestructura urbana. Realización e interpretación de ensayos de materiales; ensayos eléctricos, mecánicos, y electromecánicos. Comercialización, selección y asesoraramiento en equipamientos e instalaciones electromecánicas."
+        }
+      ],
+
+    "proyectos": [
+      { "id_proyecto":"1", "url_imagen": " ", "nombreProyecto": " ", "descripcion": " ", "url_proyecto": " "}
+    ],
+
+    "habilidades": [
+      {
+        "habilidades1": "Angular, JavaScript, Ruby, Java, HTML, CSS, Bootstrap, Github"
+      }
+    ]
+}
+
