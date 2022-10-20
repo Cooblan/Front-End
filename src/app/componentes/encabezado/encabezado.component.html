@@ -1,19 +1,39 @@
+<div class="row">
 
+
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+  <img src= {{persona.img}} class="img-fluid" id="fotodeperfil">
+  </div>
   
   <div id="lead">
     <div id="lead-content">
-        <h1> {{ persona.nombre }} </h1>
-        <h2> Silva </h2>
+    <h1> {{ persona.nombre }} </h1>
+    <h1> {{ persona.apellido }} </h1>
     </div>
-    <!-- Fin del #lead-content -->
-  
+    
     <div id="lead-overlay"></div>
-  
+    
     <div id="lead-down">
-        <span>
-            <i class="fa fa-chevron-down" aria-hidden="true"></i>
-        </span>
+      <button type="button" class="btn btn-primary" routerLink="/editencabezado/1" *ngIf="isLogged" >
+        Editar persona
+      </button>
+    <span>
+        <i class="fa fa-chevron-down" aria-hidden="true"></i>
+    </span>
     </div>
-    <!-- Fin del #lead-down -->
-  </div>
-  <!-- Fin del #lead -->
+    </div>
+
+<div id="about">
+<div class="container">
+    <div class="col-md-4">
+        <h2 class="heading">Sobre mí</h2>
+    </div>
+    <div class="col-md-8">
+        <p>
+            {{persona.descripcion}}
+        </p>
+    </div>
+</div>
+</div>
+  
+</div>
