@@ -13,9 +13,7 @@ export const environment = {
     messagingSenderId: '8086647556',
   },
   production: false,
-
   URL: 'http://localhost:8080/',
-  //URL: 'https://backportfolio1.herokuapp.com/'
 };
 
 /*
