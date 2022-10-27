@@ -1,19 +1,26 @@
-<div class="container" *ngIf="skill">
-    <div class="row">
-        <div>
+<!--Comienzo del sector de editar habilidad-->
+<section class="vh-100 gradient-custom">
+<div class="container py-1 h-100" *ngIf="skill">
+    <div id="container-edit" class="row">
+        <div class="card bg-dark text-white" style="border-radius: 1rem" style="padding:10px">
+            <!--Formulario para completar-->
             <form (ngSubmit)="onUpdate()" novalidate #f="ngForm">
                 <div class="form-group">
-                    <label for="nombre">Nombre de la skill</label>
+                    <h5 label for="nombre">Nombre de la habilidad</h5>
                     <input type="text" class="form-control" id="nombre" name="nombre" [(ngModel)]="skill.nombre" required>
                 </div>
                 <div class="form-group">
-                    <label for="porcentaje">Ingrese el porcentaje</label>
+                    <h5 label for="porcentaje">Ingrese el número del porcentaje</h5>
                     <input type="text" class="form-control" id="porcentaje" name="porcentaje" [(ngModel)]="skill.porcentaje" required>
                 </div>
-                <button class="btn btn-primary">
-                    Actualizar
+                <br>
+                <!--Botón de editar habilidad-->
+                <button class="btn btn-danger">
+                    Actualizar habilidad
                 </button>
             </form>
         </div>
     </div>
 </div>
+</section>
+<!--Fin del sector de editar habilidad-->

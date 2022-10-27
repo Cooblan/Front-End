@@ -7,7 +7,6 @@ import { BotonesSuperioresComponent } from './componentes/botones-superiores/bot
 import { ExperienciasComponent } from './componentes/experiencias/experiencias.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
-import { ContactameComponent } from './componentes/contactame/contactame.component';
 import { PieComponent } from './componentes/pie/pie.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './componentes/home/home.component';
@@ -35,7 +34,6 @@ import { provideStorage,getStorage } from '@angular/fire/storage';
     ExperienciasComponent,
     EducacionComponent,
     ProyectosComponent,
-    ContactameComponent,
     PieComponent,
     HomeComponent,
     LoginComponent,

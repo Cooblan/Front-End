@@ -37,7 +37,7 @@ export class HysComponent implements OnInit {
         data=>{
           this.cargarSkills();
         }, err =>{
-          alert("No se pudo eliminar la skill");
+          alert("No se pudo eliminar la habilidad");
         }
       )
     }

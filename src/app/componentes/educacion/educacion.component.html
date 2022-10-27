@@ -1,18 +1,28 @@
-<div id="experience" class="background-alt">
-    <h2 class="heading">Educacion</h2>
+<!--Comienzo del sector de educación-->
+<div id="educacion" class="row">
+    <!--Título-->
+    <div class="col-lg-1">
+        <h1 class="heading">Educación</h1>
+    </div>
+    <!--Botón de agregar educación-->
     <div class="col-lg-2">
         <button type="button" class="btn btn-dark" routerLink="/nuevaedu" *ngIf="isLogged" >
-            Agregar educacion
+            Agregar educación
         </button>
     </div>
-
+    <!--Tabla de educación -->
     <div class="col-lg-1"></div>
     <div class="col-lg-11">
         <table class="table">
         <tbody>
         <tr *ngFor="let Educacion of educacion">
-            <td><h3>{{Educacion.nombreE}}</h3></td>
-            <td>{{Educacion.descripcionE}}</td>
+            <td class="container">
+                <h5>{{Educacion.nombreE}}</h5>
+            </td>
+            <td class="container">
+                {{Educacion.descripcionE}}
+            </td>
+            <!--Botones de editar/eliminar-->
             <td *ngIf="isLogged">
                 <button class="btn btn-dark" routerLink="/editedu/{{Educacion.id}}">
                     <i class="bi bi-pencil-square"></i>EDITAR</button>
@@ -25,7 +35,7 @@
         </tbody>
     </table>
 </div>
-
   </div>
-  <!-- Fin del #experience -->
+  <!-- Fin del sector educación -->
+  
 

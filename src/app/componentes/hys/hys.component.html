@@ -1,8 +1,14 @@
-<div class="row">
-    <h1>Hard and Soft skills</h1>
+<!--Comienzo del sector de habilidades-->
+<div id="hys" class="row">
+    <div class="col-lg-1">
+        <!--Título-->
+    <h1 id="titulohys" class="heading">Habilidades</h1>
+</div>
     <div class="col-lg-2">
-        <button  type="button" routerLink="/newskill" class="btn btn-dark" *ngIf="isLogged">Nueva skill</button>
+        <!--Botón de agregar habilidad-->
+        <button  type="button" routerLink="/newskill" class="btn btn-dark" *ngIf="isLogged">Nueva habilidad</button>
     </div>
+    <!--Círculos de habilidades-->
     <div class="text-center col-sm-4 col-md-4 col-lg-4 circulo" *ngFor="let skill of skill">
         <circle-progress
         [percent]="(skill.porcentaje)"
@@ -20,9 +26,9 @@
         [outerStrokeColor]="'#78C000'"
         [innerStrokeColor]="'#C7E596'"
         [animation]="true"
-        [animationDuration]="2400">
+        [animationDuration]="1200">
         </circle-progress>
-
+        <!--Botones de editar/eliminar-->
         <div>
             <td *ngIf="isLogged">
                 <button class="btn btn-dark" routerLink="/editskill/{{skill.id}}">
@@ -35,3 +41,4 @@
         </div>
     </div>
 </div>
+<!--Fin del sector de habilidades-->

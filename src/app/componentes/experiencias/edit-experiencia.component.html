@@ -1,20 +1,27 @@
-<div class="container" *ngIf="expLab">
-    <div class="row">
-        <div>
+<!--Comienzo del sector de editar experiencia-->
+<section class="vh-100 gradient-custom">
+<div class="container py-1 h-100" *ngIf="expLab">
+    <div id="container-edit" class="row">
+        <div class="card bg-dark text-white" style="border-radius: 1rem" style="padding:10px">
+            <!--Formulario para completar-->
             <form (ngSubmit)="onUpdate()" novalidate #f="ngForm">
                 <div class="form-group">
-                    <label for="nombreE">Nombre de la empresa</label>
+                    <h5 label for="nombreE">Nombre de la empresa</h5>
                     <input type="text" class="form-control" id="nombreE" name="nombreE" [(ngModel)]="expLab.nombreE" required>
                 </div>
+                <br>
                 <div class="form-group">
-                    <label for="descripcionE">Descripcion de la tarea</label>
+                    <h5 label for="descripcionE">Descripción del cargo</h5>
                     <input type="text" class="form-control" id="descripcionE" name="descripcionE" [(ngModel)]="expLab.descripcionE" required>
                 </div>
-                <button class="btn btn-primary">
-                    Actualizar
+                <br>
+                <!--Botón de editar experiencia-->
+                <button class="btn btn-danger">
+                    Editar experiencia
                 </button>
             </form>
         </div>
     </div>
 </div>
-
+</section>
+<!--Fin del sector de editar experiencia-->

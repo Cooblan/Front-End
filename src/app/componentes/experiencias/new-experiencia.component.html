@@ -1,19 +1,27 @@
-<div class="container">
-    <div class="row">
-        <div>
+<!--Comienzo del sector de agregar experiencia-->
+<section class="vh-100 gradient-custom">
+<div class="container py-1 h-100">
+    <div id="container-edit" class="row">
+        <div class="card bg-dark text-white" style="border-radius: 1rem" style="padding:10px">
+            <!--Formulario para completar-->
             <form (ngSubmit)="onCreate()" novalidate #f="ngForm">
                 <div class="form-group">
-                    <label for="nombreE">Nombre de la empresa</label>
+                    <h5 label for="nombreE">Nombre de la empresa</h5>
                     <input type="text" class="form-control" id="nombreE" name="nombreE" [(ngModel)]="nombreE" required>
                 </div>
+                <br>
                 <div class="form-group">
-                    <label for="descripcionE">Descripcion de la tarea</label>
+                    <h5 label for="descripcionE">Descripción del cargo</h5>
                     <input type="text" class="form-control" id="descripcionE" name="descripcionE" [(ngModel)]="descripcionE" required>
                 </div>
-                <button class="btn btn-primary">
+                <br>
+                <!--Botón de agregar experiencia-->
+                <button class="btn btn-danger">
                     Agregar experiencia
                 </button>
             </form>
         </div>
     </div>
 </div>
+</section>
+<!--Fin del sector de agregar experiencia-->
