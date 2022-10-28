@@ -9,7 +9,7 @@ Desarrollé una aplicación web full stack, que mostrará: tus datos personales,
 tecnologías y lo que desees agregar. Esta aplicación contiene arquitectura distribuida y un diseño de interfaz de usuario (front end) que muestra la información, una base de datos que almacena los datos antes mencionados y cuenta con las APIs necesarias para proveer a través de internet la información (back end). 
 
 <p align:center>
-   <img src=![Arquitectura Web Distribuida](https://user-images.githubusercontent.com/100737118/198729920-19be8658-4c20-42bb-9eee-3c67c731fa2c.jpg)>
+   <img src="https://user-images.githubusercontent.com/100737118/198729920-19be8658-4c20-42bb-9eee-3c67c731fa2c.jpg">
 </p>
   
 Sin más, comencemos a recorrerlo.
