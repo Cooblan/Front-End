@@ -40,8 +40,9 @@ En el sector de edición de perfil podemos agregar nombre, apellido, profesion y
 ## Profesión, experiencia y educación
 
 El sector "Profesión" vendrá cargado desde el perfil, pero el sector "Experiencia" y "Educación" se editan por separado.
-Podremos agregar, editar o borrar las experiencias o educaciones que queramos ingresar.
+Podemos agregar, editar o borrar las experiencias o educaciones que queramos ingresar.
+Cabe recalcar que sin tener permisos de administrador, no podremos visualizar ningún botón de edición.
 
 ![Profesión, experiencias y educación](https://user-images.githubusercontent.com/100737118/198736167-1f9a40d3-8e5b-41c4-9554-d0eca17b2233.jpg)
 
-
+El interfaz de edición de experiencia y educación son muy similares al de perfil, y estos casí idénticos entre sí.
