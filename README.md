@@ -12,12 +12,12 @@ tecnologías y lo que desees agregar. Esta aplicación contiene arquitectura dis
 
 Sin más, comencemos a recorrerlo.
 
-#Inicio
-#Login
-#Perfil
-#Editar Perfil
-#Profesión, experiencia y educación
-#Proyectos y habilidades
+##Inicio
+##Login
+##Perfil
+##Editar Perfil
+##Profesión, experiencia y educación
+##Proyectos y habilidades
 
 ## Inicio
 
