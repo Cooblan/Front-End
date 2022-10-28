@@ -37,7 +37,11 @@ En el sector de edición de perfil podemos agregar nombre, apellido, profesion y
 
 ![Editar perfil](https://user-images.githubusercontent.com/100737118/198734666-6673db67-4ccf-4b72-afd1-17632021a20c.jpg)
 
+## Profesión, experiencia y educación
 
+El sector "Profesión" vendrá cargado desde el perfil, pero el sector "Experiencia" y "Educación" se editan por separado.
+Podremos agregar, editar o borrar las experiencias o educaciones que queramos ingresar.
 
+![Profesión, experiencias y educación](https://user-images.githubusercontent.com/100737118/198736167-1f9a40d3-8e5b-41c4-9554-d0eca17b2233.jpg)
 
 
