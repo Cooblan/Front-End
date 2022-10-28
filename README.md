@@ -46,3 +46,12 @@ Cabe recalcar que sin tener permisos de administrador, no podremos visualizar ni
 ![Profesión, experiencias y educación](https://user-images.githubusercontent.com/100737118/198736167-1f9a40d3-8e5b-41c4-9554-d0eca17b2233.jpg)
 
 El interfaz de edición de experiencia y educación son muy similares al de perfil, y estos casí idénticos entre sí.
+
+## Proyectos y habilidades
+
+El sector proyectos está disfuncional por el momento, pero el sector habilidades se comporta como cualquier otro sector pudiéndose editar, agregar y eliminar
+habilidades.
+
+![Proyectos y habilidades](https://user-images.githubusercontent.com/100737118/198737590-0ad9d9dd-66fe-4ccb-ae83-a33a86f274f0.jpg)
+
+El interfaz de edición de las habilidades es similar al de experiencia y educación pero con la diferencia que se le debe indicar el porcentaje de la habilidad (%) con un número.
