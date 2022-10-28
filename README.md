@@ -8,7 +8,7 @@ Les presento lo que conseguí realizar con el aprendizaje de este curso.
 Desarrollé una aplicación web full stack, que mostrará: tus datos personales, estudios cursados, experiencia laboral, conocimiento de las
 tecnologías y lo que desees agregar. Esta aplicación contiene arquitectura distribuida y un diseño de interfaz de usuario (front end) que muestra la información, una base de datos que almacena los datos antes mencionados y cuenta con las APIs necesarias para proveer a través de internet la información (back end). 
 
-<p align:"center">
+<p align:"right">
    <img src="https://user-images.githubusercontent.com/100737118/198729920-19be8658-4c20-42bb-9eee-3c67c731fa2c.jpg">
 </p>
   
