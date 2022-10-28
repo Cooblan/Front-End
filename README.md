@@ -12,6 +12,13 @@ tecnologías y lo que desees agregar. Esta aplicación contiene arquitectura dis
 
 Sin más, comencemos a recorrerlo.
 
+#Inicio
+#Login
+#Perfil
+#Editar Perfil
+#Profesión, experiencia y educación
+#Proyectos y habilidades
+
 ## Inicio
 
 Esto es el home sin ningún dato cargado, posee hasta el momento 4 sectores para editar (Perfil, Experiencias, Educación y Habilidades), quien contenga el usuario
@@ -57,4 +64,5 @@ habilidades.
 El interfaz de edición de las habilidades es similar al de experiencia y educación pero con la diferencia que se le debe indicar el porcentaje de la habilidad (%) con un número.
 
 En el pié de página les dejo mi identidad y mis redes sociales.
+
 ¡Gracias por tomarte el tiempo de leer mi proyecto!
