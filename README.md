@@ -12,7 +12,7 @@ tecnologías y lo que desees agregar. Esta aplicación contiene arquitectura dis
 
 Sin más, comencemos a recorrerlo.
 
-*[Proyectos y habilidades]
+[Proyectos y habilidades]
 
 ##Inicio
 
