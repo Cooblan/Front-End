@@ -35,7 +35,8 @@ Esto es el sector perfil, sin permisos de administrador, no podríamos ver el bo
 
 En el sector de edición de perfil podemos agregar nombre, apellido, profesion y una imagen de perfil (la imagen que usted cargue, se previsualizará en miniatura para saber si se cargó correctamente y para tener una idea de como quedaría en el perfil)
 
-![Perfil](https://user-images.githubusercontent.com/100737118/198734425-3ffd11b7-ae70-4d93-a63a-b1aa58fd0f93.jpg)
+![Editar perfil](https://user-images.githubusercontent.com/100737118/198734666-6673db67-4ccf-4b72-afd1-17632021a20c.jpg)
+
 
 
 
