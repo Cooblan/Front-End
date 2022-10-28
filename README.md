@@ -30,3 +30,13 @@ Haciendo clic en "Iniciar sesion" y colocando el usuario y contraseña correctos
 Esto es el sector perfil, sin permisos de administrador, no podríamos ver el botón de "Editar perfil"
 
 ![Perfil](https://user-images.githubusercontent.com/100737118/198733833-5a12c26a-5a1f-4354-b158-7a368184eafe.jpg)
+
+## Editar perfil
+
+En el sector de edición de perfil podemos agregar nombre, apellido, profesion y una imagen de perfil (la imagen que usted cargue, se previsualizará en miniatura para saber si se cargó correctamente y para tener una idea de como quedaría en el perfil)
+
+![Perfil](https://user-images.githubusercontent.com/100737118/198734425-3ffd11b7-ae70-4d93-a63a-b1aa58fd0f93.jpg)
+
+
+
+
