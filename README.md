@@ -61,3 +61,5 @@ El interfaz de edición de las habilidades es similar al de experiencia y educac
 En el pié de página les dejo mi identidad y mis redes sociales.
 
 ¡Gracias por tomarte el tiempo de leer mi proyecto!
+
+Hasta pronto.
