@@ -24,3 +24,9 @@ y contraseña de administrador podrá empezar a editar el portafolio a su manera
 Haciendo clic en "Iniciar sesion" y colocando el usuario y contraseña correctos, ya podremos acceder a las funciones de edición.
 
 ![Login](https://user-images.githubusercontent.com/100737118/198733074-1e501695-a189-4e63-a380-0b5d1c3b1861.jpg)
+
+## Perfil
+
+Esto es el sector perfil, sin permisos de administrador, no podríamos ver el botón de "Editar perfil"
+
+![Perfil](https://user-images.githubusercontent.com/100737118/198733833-5a12c26a-5a1f-4354-b158-7a368184eafe.jpg)
