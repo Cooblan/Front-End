@@ -18,3 +18,9 @@ Esto es el home sin ningún dato cargado, posee hasta el momento 4 sectores para
 y contraseña de administrador podrá empezar a editar el portafolio a su manera. Sino, sin iniciar sesión, solo podrá visualizar el portafolio.
 
 ![Inicio](https://user-images.githubusercontent.com/100737118/198728402-6be77139-7be7-48b9-b0ac-6a96b175be25.jpg)
+
+## Login
+
+Haciendo clic en "Iniciar sesion" y colocando el usuario y contraseña correctos, ya podremos acceder a las funciones de edición.
+
+![Login](https://user-images.githubusercontent.com/100737118/198733074-1e501695-a189-4e63-a380-0b5d1c3b1861.jpg)
