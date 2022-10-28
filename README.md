@@ -5,7 +5,8 @@ Les presento lo que conseguí realizar con el aprendizaje de este curso.
 
 ## Contenidos
 
-asd
+![Arquitectura Web Distribuida](https://user-images.githubusercontent.com/100737118/198729920-19be8658-4c20-42bb-9eee-3c67c731fa2c.jpg)
+
 
 ## Inicio
 
