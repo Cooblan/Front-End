@@ -55,3 +55,6 @@ habilidades.
 ![Proyectos y habilidades](https://user-images.githubusercontent.com/100737118/198737590-0ad9d9dd-66fe-4ccb-ae83-a33a86f274f0.jpg)
 
 El interfaz de edición de las habilidades es similar al de experiencia y educación pero con la diferencia que se le debe indicar el porcentaje de la habilidad (%) con un número.
+
+En el pié de página les dejo mi identidad y mis redes sociales.
+¡Gracias por tomarte el tiempo de leer mi proyecto!
